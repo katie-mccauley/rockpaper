@@ -89,6 +89,10 @@ class Program
 
       }
     }
+    else
+    {
+      Console.WriteLine("Play a different game");
+    }
 
     Console.ReadKey();
   }
